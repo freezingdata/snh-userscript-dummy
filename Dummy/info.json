@@ -1,0 +1,9 @@
+{
+    "module": "Dummy Module",
+    "unique_id": "DUMMY_SCRIPT",
+    "owner": "Benno Krause",
+    "testing_expert": "",
+    "copyright": "Freezingdata GmbH",
+    "version": "1.0.0",
+    "entrypoint": "entrypoint.py"
+}
